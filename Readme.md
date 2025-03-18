@@ -70,7 +70,7 @@ This project is a **Task Management System** that allows users to register and l
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/your-repository/task-management.git
+git clone https://github.com/Rudresh1604/Task-Management-System/
 cd task-management
 ```
 
