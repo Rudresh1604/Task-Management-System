@@ -92,7 +92,7 @@ npm install
 
 ### **3. Configure Environment Variables**
 
-Create a `.env` file in the backend directory and add the following configuration:
+Create a `.env` file in the Backend directory and add the following configuration:
 
 ```env
 PORT=5000
@@ -104,7 +104,7 @@ CLOUDINARY_API_KEY=172786718917656
 CLOUDINARY_API_SECRET=pkyyEhiu6J-3ns9YSSG1nb1wKY4
 ```
 
-Create a `.env` file in the backend directory and add the following configuration:
+Create a `.env` file in the Frontend directory and add the following configuration:
 
 ```env
 VITE_BACKEND_PORT=5000
@@ -153,4 +153,4 @@ npm run dev
 
 This **Task Management System** provides a seamless experience for managing agents, tasks, and file uploads using JWT authentication, Cloudinary storage, and MongoDB. It ensures **secure authentication**, **automated task assignment**, and **efficient data tracking**.
 
-Feel free to contribute or suggest improvements!
+
