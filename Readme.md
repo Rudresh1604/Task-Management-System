@@ -96,12 +96,12 @@ Create a `.env` file in the Backend directory and add the following configuratio
 
 ```env
 PORT=5000
-MONGO_URL=mongodb+srv://Rudresh:ChTNqsBlJQmAoF1H@cluster0.uzfvame.mongodb.net/Task
+MONGO_URL=
 SESSION_KEY=Rud9021
 JWT_KEY = secret
-CLOUDINARY_NAME=dlrkmnr7f
-CLOUDINARY_API_KEY=172786718917656
-CLOUDINARY_API_SECRET=pkyyEhiu6J-3ns9YSSG1nb1wKY4
+CLOUDINARY_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
 ```
 
 Create a `.env` file in the Frontend directory and add the following configuration:
